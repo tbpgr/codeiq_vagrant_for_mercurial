@@ -2,7 +2,7 @@
 # vi: set ft=ruby :
 
 $script = <<SCRIPT
-apt-get udpate -y
+apt-get update -y
 apt-get install -y mercurial
 SCRIPT
 
